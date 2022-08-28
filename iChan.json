@@ -1,0 +1,33 @@
+{
+   "apps":[
+      {
+         "beta":false,
+         "bundleIdentifier":"com.astafiev.app",
+         "developerName":"Zchandev",
+         "downloadURL":"https://zchan.app/download/ios/iChan.ipa",
+         "iconURL":"https://i.ibb.co/2v6bpQg/F6-F2-C66-D-9533-4-A51-9-FC6-BF2201-FF96-C2.jpg",
+         "localizedDescription":"iChan is an Open source cross-platform client for popular imageboards: 4chan.org and 2ch.hk\n\nFeatures:\n\n-Minimalistic UI, designed for large screens\n-Low battery consumption\n-Function to save all images in thread\n-Instant video playback (including WebM Support for iOS)\n-Webm to mp4 converter (iOS)\n-Cached videos, images and threads\n-Remember position in threads\n-Save threads and read offline",
+         "name":"iChan",
+         "screenshotURLs":[
+            "https://i.ibb.co/sHYPSgv/91-D6-C85-E-38-A2-4543-B9-E1-42-A2-A4-AD5-F7-B.png",
+            "https://i.ibb.co/XJwBs8g/6544-D534-31-A9-42-F5-9-FB9-D1410-BCBD1-A6.png",
+            "https://i.ibb.co/fYzh69X/B3-A5-D1-E0-7-E94-4-C59-9-A7-F-957-DB160-F31-B.png",
+            "https://i.ibb.co/9H0HQ80/BEF5-E19-E-826-E-4-C91-A693-01-FB3716014-C.png"
+         ],
+         "size":40976202,
+         "subtitle":"Open source cross-platform client for popular imageboards: 4chan.org and 2ch.hk",
+         "tintColor":"FFA500",
+         "version":"3.0.6",
+         "versionDate":"2022-08-28T14:00:00-07:00",
+         "versionDescription":"- Improvements in UI\n- Improved autohide filters. Added feature to tap on country icon and select \"ignore\" to create the filter.\n- Added an error message when you accidentally create a filter that hides all the threads and board  never loads\n- Added \"reset settings to default\" button (System - Settings)\n- Added \"recent threads\" to favorites page. For non-favorited threads that you visited within 2 last days, with your replies or all posts read. \n- Favorites sorting is now actually works\n- Added feature to tap and hold scrollbar\n- Improved filename randomization\n- Fixed 4chan cookie issues (related to passcodes and ban evades)\n- Fixed issue being unable to scroll thread to down during the refresh\n- Fixed \"open in youtube app\" not working in some cases\n- Fixed /my/ not being loaded"
+      }
+   ],
+   "identifier":"com.example.source",
+   "name":"iChan",
+   "news":[
+      
+   ],
+   "userInfo":{
+      
+   }
+}
