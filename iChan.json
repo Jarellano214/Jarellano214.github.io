@@ -19,7 +19,7 @@
          "tintColor":"FFA500",
          "version":"3.0.6",
          "versionDate":"2022-08-28T14:00:00-07:00",
-         "versionDescription":"- Improvements in UI\n- Improved autohide filters. Added feature to tap on country icon and select \"ignore\" to create the filter.\n- Added an error message when you accidentally create a filter that hides all the threads and board  never loads\n- Added \"reset settings to default\" button (System - Settings)\n- Added \"recent threads\" to favorites page. For non-favorited threads that you visited within 2 last days, with your replies or all posts read. \n- Favorites sorting is now actually works\n- Added feature to tap and hold scrollbar\n- Improved filename randomization\n- Fixed 4chan cookie issues (related to passcodes and ban evades)\n- Fixed issue being unable to scroll thread to down during the refresh\n- Fixed \"open in youtube app\" not working in some cases\n- Fixed /my/ not being loaded"
+         "versionDescription":"5143 build released: added user agent selection. Go to settings - platforms - 4chan and tap change to set new user agent. Then try to load new captcha again"
       }
    ],
    "identifier":"com.example.source",
